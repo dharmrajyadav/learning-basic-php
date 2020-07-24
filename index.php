@@ -1,6 +1,6 @@
 <?php
 
-
+		//interface 
         interface square
         {
             public function calculate();
